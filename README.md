@@ -1,2 +1,3 @@
 # Wine-Review-Data
-Wine Review Analysis
+
+Price recommendation algorithm for Wine Review Data
